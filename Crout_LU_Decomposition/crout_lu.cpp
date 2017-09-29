@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <fstream>
+#include <algorithm>
 #include <math.h>
+#include <stdexcept>
 
 using std::swap;
-using std::ifstream;
 
 const double eps = 0.00000001;
 
